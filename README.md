@@ -70,7 +70,6 @@ Test set: Average loss: 0.0047, Accuracy: 58611/60000 (97.69%)
 
 <img src="msnit.png" alt="MNIST batch visualization" width="600"/>
 
-_(Replace with the actual output image from your notebook)_
 
 ---
 
@@ -78,7 +77,6 @@ _(Replace with the actual output image from your notebook)_
 
 <img src="plot.png" alt="Training and Test Metrics" width="800"/>
 
-_(Replace with the actual output image from your notebook)_
 
 - **Top Left:** Training Loss  
 - **Top Right:** Test Loss  
