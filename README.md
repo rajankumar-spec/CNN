@@ -9,7 +9,7 @@ This notebook implements a **Convolutional Neural Network (CNN)** for the MNIST 
 1. **Data Preparation**
    - Dataset: **MNIST** handwritten digits (28×28 grayscale).
    - Normalization and standard transformations applied.  
-   - Data loaders prepared with batching and shuffling.  
+   - Data loaders prepared with batching and shuffling.
 
 2. **Model Design**
    - Experimented with **3×3 convolutions**, **1×1 convolutions**, **max pooling**, **batch normalization**, and **dropout**.  
@@ -21,6 +21,13 @@ This notebook implements a **Convolutional Neural Network (CNN)** for the MNIST 
    - Optimizer: **Stochastic Gradient Descent (SGD)** with momentum.  
    - Device: CUDA/GPU if available.  
    - Training loop tracks **losses** and **accuracy** for both training and test sets.  
+
+---
+---
+
+## Example Batch Visualization
+
+<img src="msnit.png" alt="MNIST batch visualization" width="600"/>
 
 ---
 
