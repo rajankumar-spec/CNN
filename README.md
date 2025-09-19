@@ -56,7 +56,6 @@ The final CNN (`Net` class) consists of:
 
         Layer (type)               Output Shape         Param #
         
-================================================================
 
             Conv2d-1            [-1, 8, 28, 28]              80
             
@@ -84,7 +83,6 @@ The final CNN (`Net` class) consists of:
            
            Linear-13                   [-1, 10]           1,290
            
-================================================================
 
 Total params: 19,378
 
